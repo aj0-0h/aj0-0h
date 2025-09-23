@@ -3,7 +3,7 @@
 # Asjad Hashmi
 ### `Cybersecurity • SOC Analyst • Blue Team`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=500&height=60&lines=%3E+INITIALIZING...;%3E+SOC_ANALYST.exe;%3E+THREAT_HUNTER.dll;%3E+BLUE_TEAM_OPS.sys;%3E+CYBER_DEFENDER.bat;%3E+SYSTEM_READY..." alt="Cyber Terminal" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=500&height=60&lines=%3E+INITIALIZING...;%3E+SOC_ANALYST;%3E+BLUE_TEAM_OPS;%3E+CYBER_DEFENDER;%3E+SYSTEM_READY..." alt="Cyber Terminal" />
 
 <img src="https://komarev.com/ghpvc/?username=asjad-hashmi&style=flat-square&color=00FF41" alt="views" />
 <img src="https://img.shields.io/github/followers/asjad-hashmi?style=flat-square&color=00FF41" alt="followers" />
