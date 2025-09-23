@@ -3,10 +3,10 @@
 # Asjad Hashmi
 ### `Cybersecurity • SOC Analyst • Blue Team`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&height=60&lines=🛡️+SOC+Analyst;🔐+Cybersecurity+Professional;🤖+AI%2FML+Explorer" alt="Dynamic Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=500&height=60&lines=%3E+INITIALIZING...;%3E+SOC_ANALYST.exe;%3E+THREAT_HUNTER.dll;%3E+BLUE_TEAM_OPS.sys;%3E+CYBER_DEFENDER.bat;%3E+SYSTEM_READY..." alt="Cyber Terminal" />
 
-<img src="https://komarev.com/ghpvc/?username=asjad-hashmi&style=flat-square&color=36BCF7" alt="views" />
-<img src="https://img.shields.io/github/followers/asjad-hashmi?style=flat-square&color=36BCF7" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=asjad-hashmi&style=flat-square&color=00FF41" alt="views" />
+<img src="https://img.shields.io/github/followers/asjad-hashmi?style=flat-square&color=00FF41" alt="followers" />
 
 </div>
 
@@ -43,6 +43,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asjad-hashmi-69ab27250/)
 <br/>
 
-<sub>💙 **"Defense through detection, security through automation"**</sub>
+<sub>*"In code we trust, in security we verify"* 🔐</sub>
 
 </div>
