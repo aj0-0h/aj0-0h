@@ -1,8 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20&height=300&section=header&text=Asjad%20Hashmi&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Craftsman%20%7C%20Developer%20%7C%20Creator%20%7C%20Innovator&descAlignY=51&descAlign=62"/>
+👨‍💻 **Asjad Hashmi** | Pakistan 🇵🇰  
+🎓 **Final Year CS Stud### 🌱 **Learning Journey**
+🔵 **Blue Teaming Techniques**  
+🛡️ **SIEM & SOAR Platforms****🛡️ Blue Team Ops**
+<br/>
+Network Monitorin**📚 Certification### 🏅 **Recent Achievements**
+<img src="https://img.shields.io/badge/🎯_THM_Streak-30%20Days-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📚_SIEM_Labs-Completed-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔍_Blue_Team_Rooms-15%2B-2196F3?style=for-the-badge" />ls**
+<br/><br/>
+🎯 **CompTIA Security+** *(Studying)*  
+🎯 **Blue Team Level 1** *(Planned)*  
+🎯 **Microsoft SC-200** *(Planned)*  
+🎯 **GCIH** *(Future Goal)*g Analysis  
+Threat Hunting  
+Security Automation**Threat Hunting Methods**  
+📊 **Security Analytics** COMSATS**  
+🔐 **Cybersecurity Expert | AI/ML Enthusiast**g src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20&height=300&section=header&text=Asjad%20Hashmi&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Craftsman%20%7C%20Developer%20%7C%20Creator%20%7C%20Innovator&descAlignY=51&descAlign=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🤖+Machine+Learning+Engineer;🔐+Cybersecurity+Enthusiast;🛡️+SOC+Analyst+in+Training;💡+Digital+Security+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🛡️+SOC+Analyst+in+Training;🔐+Cybersecurity+Enthusiast;🤖+Machine+Learning+Engineer;💡+Digital+Security+Innovator" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asjad-hashmi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -104,7 +121,9 @@
 
 </div>
 
-## 🛠️ **Tech Stack**
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
