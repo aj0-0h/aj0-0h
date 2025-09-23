@@ -35,27 +35,12 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
----
-
-## Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=asjad-hashmi&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=8B949E"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad-hashmi&theme=nord&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
-
-</div>
-
----
 
 ## Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asjad-hashmi-69ab27250/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asjadhashmi807@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/nixt40)
-
 <br/>
 
 <sub>💙 **"Defense through detection, security through automation"**</sub>
