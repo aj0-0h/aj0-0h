@@ -35,7 +35,6 @@
 ### 3. 🔁 CI/CD & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
 </p>
 
 ### 4. 📊 Monitoring & Observability
