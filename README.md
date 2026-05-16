@@ -50,16 +50,6 @@
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aj0-0h&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="AJ's Contribution Graph" />
-</div>
-
----
-
 ## 🔭 Currently Working On
 
 - 🏗️ Building cloud-native infrastructure on **AWS** with Terraform modules
