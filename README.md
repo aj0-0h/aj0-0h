@@ -8,45 +8,43 @@
 
 ## 🚀 About Me
 
-- ☁️ DevOps & Cloud Engineer passionate about building **scalable, resilient infrastructure**
-- 🐳 Living in containers — Docker & Kubernetes are my daily drivers
-- 🏗️ Strong believer in **Infrastructure as Code** — if it's not in Terraform, did it even happen?
-- 🔁 Obsessed with **CI/CD pipelines** and automating everything that can be automated
-- 📊 Monitoring and observability enthusiast — Grafana dashboards are art
-- 🐍 Scripting in **Python** and **JavaScript** to glue it all together
-- 🌱 Always learning — cloud-native patterns, platform engineering & FinOps
+- 🎓 **Final-year CS student at COMSATS** — graduating September 2026
+- 🐳 **Building real infrastructure** with Docker, K8s, Terraform, Ansible & GitHub Actions
+- ☁️ **AWS-focused**, currently working toward professional certification
+- 🔐 **Researching** web cookie classification & client-side tracking mitigation
+- 🌍 **Actively seeking** Cloud & DevOps roles in Pakistan
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-</p>
-
-### 🐳 Containers & Orchestration
+### 1. 🐳 Containers & Orchestration
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
 </p>
 
-### 🔁 CI/CD & Automation
+### 2. ☁️ Cloud & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+</p>
+
+### 3. 🔁 CI/CD & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
 </p>
 
-### 📊 Monitoring & Observability
+### 4. 📊 Monitoring & Observability
 <p align="left">
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 </p>
 
-### 💻 Languages & Scripting
+### 5. 💻 Languages & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
