@@ -8,7 +8,7 @@
 
 *Final-year CS student · Graduating 2025 · Based in Pakistan*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asjad-hashmi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asjad-hashmi-69ab27250/)
 [![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-aj0--0h-333?style=flat-square&logo=github&logoColor=white)](https://github.com/aj0-0h)
 
