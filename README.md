@@ -35,7 +35,7 @@
 
 ---
 
-## 💡 My DevOps Philosophy
+## 💡 My DevOps Code
 
 ```text
 "Automate the toil. Version the infrastructure. Monitor everything. Sleep well."
